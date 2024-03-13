@@ -5,6 +5,8 @@ import base64
 import json
 from argparse import ArgumentParser
 
+#Credit: https://digital-shokunin.net
+
 def get_args():
   parser = ArgumentParser()
   parser.add_argument('-r','--registry', default='gchr.io', help='Ex: ghcr.io')
