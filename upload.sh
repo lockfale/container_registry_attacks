@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# Credit to 517stars
+# Author 5stars217 https://5stars217.github.io/
 
 # Global Variables
 MANIFEST="./Manifest.json"
