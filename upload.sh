@@ -4,7 +4,7 @@
 # Author 5stars217 https://5stars217.github.io/
 
 # Global Variables
-MANIFEST="./Manifest.json"
+MANIFEST="./manifest.json"
 
 DOCKER_HOST=$1
 REPOSITORY=$2
